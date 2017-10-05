@@ -1,0 +1,6 @@
+{
+    "extends": "expo/native",
+    "rules": {
+        "semi": "off"
+    }
+}
